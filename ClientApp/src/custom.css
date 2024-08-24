@@ -1,0 +1,99 @@
+
+/*body {
+  margin: 0 5px;
+  padding: 0;
+}
+
+.chain {
+  display: flex;
+  flex-direction: column;
+}
+
+.filter {
+  border-bottom: 1px #ccc solid;
+  margin-bottom: 20px;
+}
+
+.filter-items div {
+  margin-right: 20px;
+}
+
+.filter-items input,
+.filter-items select {
+  margin-left: 0;
+  margin-top: 5px;
+}
+
+.filter-items .bth {
+  height: 20px;
+  width: 60px;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.content-center {
+  align-content: center;
+}
+
+.add-btn {
+  position: fixed;
+  top: 30px;
+  right: 80px;
+}
+
+.btn {
+  width: 50px;
+  background: rgb(219,214,214);
+  border-radius: 3px;
+  box-shadow: 0 0 1px 2px rgb(218,215,215);
+  cursor: pointer;
+  text-align: center;
+  color: #000;
+}
+
+.btn.add {
+  background: rgb(16,122,67);
+  font-size: 30px;
+  font-weight: bold;
+  box-shadow: 0 0 2px 2px rgb(39,153,39);
+  padding: 5px 13px;
+  color: #fff;
+  font-family: Tahoma;
+}
+
+.spacer-20 {
+  padding-top:20px;
+}
+
+.notifications {
+  font-weight: bold;
+  animation-name: notification;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+  animation-direction: alternate;
+}
+
+@keyframes notification {
+  0% {color: gold;}
+  50% {color: red;}
+  100% {color: blue;}
+}
+
+/* Provide sufficient contrast against white background 
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #E01A76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+*/
